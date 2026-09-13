@@ -10,7 +10,11 @@
 
 ---
 
+<div align="center">
+
 ## 🚀 About Me
+
+</div>
 
 - ⚡ I'm a **Full Stack .NET Developer**
 - 🎓 I'm a **Computer Science student** passionate about learning and growing in technology.
@@ -18,21 +22,49 @@
 - 🧠 Interested in **Backend Development, Software Architecture, and Problem Solving**
 - 🌱 Always learning and improving my development skills.
 
-## 🛠️ Tech Stack
+---
 
-[![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/core/)
-[![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/core/)
-[![LINQ](https://img.shields.io/badge/LINQ-68217A?style=for-the-badge)](https://learn.microsoft.com/en-us/dotnet/csharp/linq/)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<div align="center">
+
+## 🛠️ Tech Stack
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,git,github,html,css,js,sqlserver" />
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+</a>
+<a href="https://learn.microsoft.com/en-us/aspnet/core/">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core">
+</a>
+<a href="https://learn.microsoft.com/en-us/ef/core/">
+  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core">
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/linq/">
+  <img src="https://img.shields.io/badge/LINQ-68217A?style=for-the-badge" alt="LINQ">
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</a>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,git,github,html,css,js,sqlserver" alt="Tech Stack">
+
+</div>
 
 ---
 
+<div align="center">
+
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-abd-elbakey/)
+<br>
+
+<a href="https://www.linkedin.com/in/mahmoud-abd-elbakey/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+</div>
